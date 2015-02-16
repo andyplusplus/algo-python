@@ -10,8 +10,7 @@
     <content url="file://$MODULE_DIR$/../python_algorithms-0.2.1">
       <sourceFolder url="file://$MODULE_DIR$/../python_algorithms-0.2.1" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.4.0 (/usr/bin/python3.4)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-
