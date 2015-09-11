@@ -149,6 +149,5 @@ def main():
     Maze.print_path(path)
     #print(path)
 
-
 if __name__=="__main__":
     main()
