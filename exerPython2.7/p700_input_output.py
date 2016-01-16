@@ -1,15 +1,19 @@
-
-This is my reinput code from:
-# The Python Tutorial: https://docs.python.org/2.7/genindex.html
-
-Be best way to be comfortable with a language is to write some lines of code, at least 10 thousand lines of code.
-
-
-
-
+"""
+Input Output
+"""
 #=======================================================
 #
 #=======================================================
+s = 'Hello, World'
+print str(s)
+print repr(s)
+
+for x in range(1, 11):
+    print repr(x).rjust(2), repr(x*x).rjust(3)
+    print repr(x*x*x).rjust(4)
+
+for x in range(1,11):
+    print '{0:2d} {1:3d} {2:4d}'.format(x, x*x, x*x*x)
 
 #=======================================================
 #
